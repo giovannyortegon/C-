@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HelloWord/HelloWord.csproj": {}
+    "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HoraActual/HoraActual.csproj": {}
   },
   "projects": {
-    "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HelloWord/HelloWord.csproj": {
+    "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HoraActual/HoraActual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HelloWord/HelloWord.csproj",
-        "projectName": "HelloWord",
-        "projectPath": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HelloWord/HelloWord.csproj",
+        "projectUniqueName": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HoraActual/HoraActual.csproj",
+        "projectName": "HoraActual",
+        "projectPath": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HoraActual/HoraActual.csproj",
         "packagesPath": "/home/odiseo/.nuget/packages/",
-        "outputPath": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HelloWord/obj/",
+        "outputPath": "/home/odiseo/Documents/C#/OpenBootCamp/Chap01/HoraActual/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/odiseo/.nuget/NuGet/NuGet.Config"

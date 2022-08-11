@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Escriba su nombre: ");
-string nombre = Console.ReadLine();
-Console.WriteLine("Hello, {0}", nombre);
-Console.WriteLine("La hora actual es: {0}", DateTime.Now);
+﻿// Description: Read from console name and print it
+
+Console.WriteLine("Escriba su nombre: ");       // print message
+string nombre = Console.ReadLine();             // read name
+Console.WriteLine("Hello, {0}", nombre);        // print name
