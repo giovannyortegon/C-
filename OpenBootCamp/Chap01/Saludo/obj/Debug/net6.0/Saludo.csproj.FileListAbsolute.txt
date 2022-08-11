@@ -1,0 +1,15 @@
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/bin/Debug/net6.0/Saludo
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/bin/Debug/net6.0/Saludo.deps.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/bin/Debug/net6.0/Saludo.runtimeconfig.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/bin/Debug/net6.0/Saludo.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/bin/Debug/net6.0/Saludo.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.csproj.AssemblyReference.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.GeneratedMSBuildEditorConfig.editorconfig
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.AssemblyInfoInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.AssemblyInfo.cs
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.csproj.CoreCompileInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/refint/Saludo.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/Saludo.genruntimeconfig.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap01/Saludo/obj/Debug/net6.0/ref/Saludo.dll
