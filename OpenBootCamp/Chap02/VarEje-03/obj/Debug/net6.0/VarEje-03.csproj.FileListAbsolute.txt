@@ -1,0 +1,15 @@
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.csproj.AssemblyReference.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.GeneratedMSBuildEditorConfig.editorconfig
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.AssemblyInfoInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.AssemblyInfo.cs
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.csproj.CoreCompileInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/bin/Debug/net6.0/VarEje-03
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/bin/Debug/net6.0/VarEje-03.deps.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/bin/Debug/net6.0/VarEje-03.runtimeconfig.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/bin/Debug/net6.0/VarEje-03.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/bin/Debug/net6.0/VarEje-03.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/refint/VarEje-03.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/VarEje-03.genruntimeconfig.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap02/VarEje-03/obj/Debug/net6.0/ref/VarEje-03.dll
