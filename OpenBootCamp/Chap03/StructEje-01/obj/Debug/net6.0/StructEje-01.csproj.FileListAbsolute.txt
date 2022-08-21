@@ -1,0 +1,15 @@
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.csproj.AssemblyReference.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.GeneratedMSBuildEditorConfig.editorconfig
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.AssemblyInfoInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.AssemblyInfo.cs
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.csproj.CoreCompileInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/bin/Debug/net6.0/StructEje-01
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/bin/Debug/net6.0/StructEje-01.deps.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/bin/Debug/net6.0/StructEje-01.runtimeconfig.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/bin/Debug/net6.0/StructEje-01.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/bin/Debug/net6.0/StructEje-01.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/refint/StructEje-01.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/StructEje-01.genruntimeconfig.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap03/StructEje-01/obj/Debug/net6.0/ref/StructEje-01.dll
