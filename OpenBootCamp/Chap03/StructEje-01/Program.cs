@@ -1,5 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿/* Ejercicio 1 - Estrucutras
+*
+* Crea una estructura de datos para un cliente con estos campos:
+* Nombre completo
+* Teléfono
+* Dirección
+* Email
+* Si es nuevo cliente
+*
+* Bonus: escribe un método para presentar estos datos desde la estructura al hacer Console.WriteLine(...)
+*/
 
 DatosCliente cliente1 = new DatosCliente("Giovanny Ortegon", 3243456745, "Calle 21 d # 234 - 45", "fsdfsd@htomail.com", false);
 Console.WriteLine("Datos de Cliente: {0}", cliente1.ToString());
