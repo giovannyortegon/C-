@@ -1,0 +1,15 @@
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/bin/Debug/net6.0/Ejercicio2
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/bin/Debug/net6.0/Ejercicio2.deps.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/bin/Debug/net6.0/Ejercicio2.runtimeconfig.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/bin/Debug/net6.0/Ejercicio2.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/bin/Debug/net6.0/Ejercicio2.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.csproj.AssemblyReference.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.AssemblyInfoInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.AssemblyInfo.cs
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/refint/Ejercicio2.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/Ejercicio2.genruntimeconfig.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap04/Ejercicios-Session4/Ejercicio2/obj/Debug/net6.0/ref/Ejercicio2.dll
