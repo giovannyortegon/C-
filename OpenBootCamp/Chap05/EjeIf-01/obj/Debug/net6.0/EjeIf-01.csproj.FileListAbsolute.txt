@@ -1,0 +1,15 @@
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.AssemblyInfo.cs
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\bin\Debug\net6.0\EjeIf-01.exe
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\bin\Debug\net6.0\EjeIf-01.deps.json
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\bin\Debug\net6.0\EjeIf-01.runtimeconfig.json
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\bin\Debug\net6.0\EjeIf-01.dll
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\bin\Debug\net6.0\EjeIf-01.pdb
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.dll
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\refint\EjeIf-01.dll
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.pdb
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\EjeIf-01.genruntimeconfig.cache
+C:\Users\giova\Documents\C-\OpenBootCamp\Chap04\EjeIf-01\obj\Debug\net6.0\ref\EjeIf-01.dll
