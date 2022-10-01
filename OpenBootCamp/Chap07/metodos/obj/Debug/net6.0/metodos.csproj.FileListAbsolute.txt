@@ -1,0 +1,15 @@
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.csproj.AssemblyReference.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.AssemblyInfoInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.AssemblyInfo.cs
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.csproj.CoreCompileInputs.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/bin/Debug/net6.0/metodos
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/bin/Debug/net6.0/metodos.deps.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/bin/Debug/net6.0/metodos.runtimeconfig.json
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/bin/Debug/net6.0/metodos.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/bin/Debug/net6.0/metodos.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/refint/metodos.dll
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.pdb
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/metodos.genruntimeconfig.cache
+/home/odiseo/Documents/C#/OpenBootCamp/Chap07/metodos/obj/Debug/net6.0/ref/metodos.dll
